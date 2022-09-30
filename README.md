@@ -1,12 +1,25 @@
 # teals (Level 1 Heading)
+This is my text under level 1. This is for the **INtrodution to Software Technology** class at *Towers High School*! Links are easy to make - the shcool can be found [here](https://www.towershs.dekalb.k12.ga.us/)
 
-*This is text under level 1.* This is for the **Introduction to Software Technologies** class at [Towers High School](https://www.towershs.dekalb.k12.ga.us/) [!
-[An image of the Towers High and Dekalb County logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)]
+![The Towers High School and Dekalb County schools logo](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
-We cn create "enumerated lists"(numbered lists)! Three things we'll look at: 
-1.How to use git
-2.How to use markdown for ReadMe's and the wiki
-3.How to use HTML/CSS in Jekyll for pages
+Three things we want to cover are:
+1. How to use git.
+2. How to use markdown for ReadMe's and the wiki
+3. How to use HTML/CSS in Jekyll for pages
+
+A few languages that we discuss for programming:
+- C/C++
+- Fortran
+- Python
+- Julia
+
+Tables are also helpful
+|Syntax|Description|
+|-----------|-----------|
+|Row 1|Value 1|
+|Row 2|Value 2|
+|Row 3|Value 3|
 
 This is text under level 2.
 
